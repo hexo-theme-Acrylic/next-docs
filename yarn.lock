@@ -946,7 +946,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@nuxt-themes/docus@^1.9.0":
+"@nuxt-themes/docus@^1.9.1":
   version "1.9.1"
   resolved "https://registry.npmmirror.com/@nuxt-themes/docus/-/docus-1.9.1.tgz#7759be05ae9722bac6693810ae7c91b11702ef5d"
   integrity sha512-g3W1bkOWVUEV3hs2hJg/kHWc2NL0IPw75HmBFr12k+eG5wddSvWLJcdJZnfbPTLy9M9A4C71TvZIFWcg1qpm4A==
